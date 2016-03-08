@@ -19,3 +19,6 @@ primeros 28 números corresponden a la primera columna, los siguientes a las seg
 columna 28 que acaba con el dígito número 784.
 
 La estructura de la red es:
+
+![alt tag](https://github.com/BesayMontesdeoca/NeuralNetwork_MNIST/blob/master/model.png)
+
